@@ -11,14 +11,3 @@ export const  fetchData = async () => {
         return [];
     }
 };
-export const Data = () => {
-    useEffect(() => {
-        const api = async () => {
-            const data =await axios.get('/api/data.json')
-            // setData(data.data)
-
-            return data
-        }   
-        api()
-    }, [])
-}
