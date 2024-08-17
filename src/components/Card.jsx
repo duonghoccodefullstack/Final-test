@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { fetchData ,Data } from "../hooks/useMovies"
+import { fetchData } from "../hooks/useMovies"
 const Card = ({ setItem,open}) => {
 
     const [data, setData] = useState([])
