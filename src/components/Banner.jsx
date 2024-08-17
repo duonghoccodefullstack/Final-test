@@ -1,4 +1,4 @@
-import axios from "axios";
+
 import { fetchData } from "../hooks/useMovies";
 import { useEffect, useState } from "react";
 
@@ -22,7 +22,7 @@ const Banner = () => {
             <p className="my-[29px] text-aMovie">What are you gonna watch today?</p>
             <div className="">
                 <div className="relative my-[29px]">
-                    <img src="/src/assets/imgtest/banner.png" alt="" width={"100%"} />
+                    <img src={state.image} alt="" width={"100%"} />
                     <div className="absolute h-full w-full inset-0 bg-gradient-to-tr from-[#192026]  to-transparent opacity-100 "></div>
                     <div className="absolute bottom-0 h-full text-sm p-10 text-white  shadow-md w-[75%]   ">
                         <div className="absolute bottom-10 left-10 w-[586px] h-[161px] flex flex-col justify-around">
