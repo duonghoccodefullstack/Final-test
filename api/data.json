@@ -1,0 +1,88 @@
+{
+    "banner":[
+        {
+            "id": "1",
+            "movieName": "Weather With You",
+            "description": "Mùa hè năm đầu cấp Ba, Hodaka bỏ nhà ra đi. Cậu từ một hòn đảo xa xôi hẻo lánh đến Tokyo, nhưng sau đó nhanh chóng rơi vào cảnh túng thiếu và phải sống chuỗi ngày cô đơn. Nhưng cuối cùng cậu đã tìm được công việc: viết bài cho một tạp chí huyền bí. Sau khi cậu bắt đầu công việc, mưa cứ rơi mãi rơi mãi không thôi. Ở một góc thành phố đông đúc và nhộn nhịp, Hodaka đã gặp thiếu nữ tên Hina. Cô sống cùng em trai, luôn vui vẻ và kiên cường. Cô cũng có một sức mạnh vô cùng đặc biệt: “Này, từ bây giờ trời hãy hửng nắng đi nào.” Từng chút một, mưa ngừng rơi, và ánh sáng tuyệt đẹp rọi chiếu những nóc nhà trong thành phố. Chỉ bằng một lời cầu nguyện, cô đã khiến bầu trời trở nên sáng trong.",
+            "image": "",
+            "episode": "01"
+        }
+    ],
+    "data": [
+       
+        
+        {
+            "id": "1",
+            "movieName": "One Piece",
+            "description": "One Piece là bộ truyện tranh dành cho thiếu niên của tác giả nổi tiếng Oda Eiichiro. Bộ manga này được chuyển thể thành một series anime nhiều tập hài hước, đặc sắc. Phim Đảo Hải Tặc mở đầu câu chuyện bằng cảnh xử tử vua hải tặc Gol D. Roger. Trước khi chết ông đã tiết lộ rằng mình có một kho báu được giấu ngoài biển. Nếu ai tìm thấy kho báu thì chúng sẽ thuộc về người đó. Rất nhiều người gan dạ đã đổ xô ra biển để tìm kiếm kho báu bí ẩn của vua hải tặc Gol D. Roger.",
+            "image": "/src/assets/imgtest/One-piece1.png",
+            "episode": "1018",
+            "type":"Tv",
+            "status":"Ongoing",
+            "studios":"Toei Animation",
+            "timeline":24,
+            "genres":["Action","Adventure","Fantasy"]
+        },
+        {
+            "id": "2",
+            "movieName": "Naruto",
+            "description": "Naruto là câu chuyện về một cậu bé ninja trẻ tuổi có ước mơ trở thành Hokage, người đứng đầu làng và được công nhận bởi tất cả mọi người. Được nuôi dưỡng trong một làng ninja với niềm khao khát mạnh mẽ và ước mơ lớn, Naruto phải vượt qua nhiều thử thách và tìm kiếm sự công nhận từ mọi người xung quanh.",
+            "image": "/src/assets/imgtest/Naruto.png",
+            "episode": "220",
+            "type": "Tv",
+            "status": "Completed",
+            "studios": "Studio Pierrot",
+            "timeline": 23,
+            "genres": ["Action", "Adventure", "Drama"]
+        },
+        {
+            "id": "3",
+            "movieName": "Spy X Family",
+            "description": "Spy X Family theo chân một điệp viên bí mật có nhiệm vụ tạo dựng một gia đình giả để thực hiện một nhiệm vụ quan trọng. Trong quá trình này, anh ta kết hợp với một sát thủ và một cô bé có khả năng đọc tâm trí, tạo thành một gia đình bất thường với nhiều tình huống hài hước và cảm động.",
+            "image": "/src/assets/imgtest/SpyXFamily.png",
+            "episode": "25",
+            "type": "Tv",
+            "status": "Ongoing",
+            "studios": "Wit Studio, CloverWorks",
+            "timeline": 24,
+            "genres": ["Action", "Comedy", "Drama"]
+        },
+        {
+            "id": "4",
+            "movieName": "Shingeki no Kyojin",
+            "description": "Shingeki no Kyojin, hay còn gọi là Attack on Titan, kể về một thế giới nơi nhân loại sống trong các thành phố bao bọc bởi những bức tường khổng lồ để tránh sự tấn công của những sinh vật khổng lồ gọi là Titan. Câu chuyện theo chân Eren Yeager và những người bạn của anh khi họ chiến đấu để giải cứu nhân loại khỏi sự diệt vong.",
+            "image": "/src/assets/imgtest/ShingekiNoKyojin.png",
+            "episode": "88",
+            "type": "Tv",
+            "status": "Completed",
+            "studios": "Wit Studio, MAPPA",
+            "timeline": 24,
+            "genres": ["Action", "Drama", "Fantasy"]
+        },
+        {
+            "id": "5",
+            "movieName": "Captain Tsubasa",
+            "description": "Captain Tsubasa kể về cuộc hành trình của Tsubasa Ozora, một cầu thủ bóng đá trẻ tuổi đầy tài năng và đam mê. Bộ phim theo chân Tsubasa từ khi còn là một cậu bé với giấc mơ trở thành cầu thủ bóng đá chuyên nghiệp, qua các trận đấu và giải đấu, và những thử thách mà anh phải đối mặt trong quá trình đạt được ước mơ của mình.",
+            "image": "/src/assets/imgtest/CaptainTsubasa.png",
+            "episode": "128",
+            "type": "Tv",
+            "status": "Ongoing",
+            "studios": "Toei Animation",
+            "timeline": 24,
+            "genres": ["Sports", "Adventure", "Drama"]
+        },
+        {
+            "id": "6",
+            "movieName": "Ao Ashi",
+            "description": "Ao Ashi theo chân Ashito Aoi, một cầu thủ bóng đá trẻ đầy triển vọng từ một thị trấn nhỏ, khi anh tham gia vào đội bóng đá của một học viện danh tiếng ở Tokyo. Câu chuyện khám phá hành trình của Ashito trong việc phát triển kỹ năng, đối mặt với những thử thách và theo đuổi giấc mơ trở thành cầu thủ bóng đá chuyên nghiệp.",
+            "image": "/src/assets/imgtest/AoAshi.png",
+            "episode": "24",
+            "type": "Tv",
+            "status": "Ongoing",
+            "studios": "Production I.G",
+            "timeline": 24,
+            "genres": ["Sports", "Drama", "Slice of Life"]
+        }
+    ]
+}
+
